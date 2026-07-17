@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pavan-kumar-96/Ai-Image-Generation.git/static/css/main.cb9f1e56.css",
-    "main.js": "/pavan-kumar-96/Ai-Image-Generation.git/static/js/main.2687f9c1.js",
-    "static/js/453.0c50d971.chunk.js": "/pavan-kumar-96/Ai-Image-Generation.git/static/js/453.0c50d971.chunk.js",
-    "static/media/image.png": "/pavan-kumar-96/Ai-Image-Generation.git/static/media/image.fbcb8b5033de64e7002b.png",
-    "index.html": "/pavan-kumar-96/Ai-Image-Generation.git/index.html",
-    "main.cb9f1e56.css.map": "/pavan-kumar-96/Ai-Image-Generation.git/static/css/main.cb9f1e56.css.map",
-    "main.2687f9c1.js.map": "/pavan-kumar-96/Ai-Image-Generation.git/static/js/main.2687f9c1.js.map",
-    "453.0c50d971.chunk.js.map": "/pavan-kumar-96/Ai-Image-Generation.git/static/js/453.0c50d971.chunk.js.map"
+    "main.css": "/Ai-Image-Generation1/static/css/main.cb9f1e56.css",
+    "main.js": "/Ai-Image-Generation1/static/js/main.ac1dbcd5.js",
+    "static/js/488.c7d72246.chunk.js": "/Ai-Image-Generation1/static/js/488.c7d72246.chunk.js",
+    "static/media/image.png": "/Ai-Image-Generation1/static/media/image.fbcb8b5033de64e7002b.png",
+    "index.html": "/Ai-Image-Generation1/index.html",
+    "main.cb9f1e56.css.map": "/Ai-Image-Generation1/static/css/main.cb9f1e56.css.map",
+    "main.ac1dbcd5.js.map": "/Ai-Image-Generation1/static/js/main.ac1dbcd5.js.map",
+    "488.c7d72246.chunk.js.map": "/Ai-Image-Generation1/static/js/488.c7d72246.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb9f1e56.css",
-    "static/js/main.2687f9c1.js"
+    "static/js/main.ac1dbcd5.js"
   ]
 }
