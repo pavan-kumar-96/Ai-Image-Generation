@@ -2,7 +2,7 @@
   "name": "ai_image_generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/pavan-kumar-96/Ai-Image-Generation.git",
+  "homepage": "https://pavan-kumar-96.github.io/Ai-Image-Generation",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
